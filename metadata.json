@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ระบบแจ้งซ่อมและติดตามสถานะอุปกรณ์คอมพิวเตอร์ออนไลน์",
+  "description": "ระบบแจ้งซ่อมและติดตามสถานะอุปกรณ์คอมพิวเตอร์ออนไลน์ (Online Computer Equipment Repair Notification and Tracking System) พร้อมระบบวิเคราะห์อาการด้วย AI, ประวัติสุขภาพอุปกรณ์, ระบบแชต, Dashboard วิเคราะห์ข้อมูล และแจ้งเตือนผ่าน LINE",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

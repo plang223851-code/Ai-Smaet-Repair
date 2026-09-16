@@ -1,0 +1,46 @@
+[
+  {
+    "id": "notif-1",
+    "userId": "usr-1",
+    "repairId": "rep-001",
+    "ticketNumber": "REP-2026-0001",
+    "title": "🔧 อัปเดตสถานะงานซ่อม",
+    "message": "งานซ่อม REP-2026-0001 เปลี่ยนสถานะเป็น \"กำลังซ่อม\" โดย ช่างประสิทธิ์ ซ่อมไว",
+    "type": "status_changed",
+    "isRead": true,
+    "createdAt": "2026-03-10T11:00:00Z"
+  },
+  {
+    "id": "notif-2",
+    "userId": "usr-1",
+    "repairId": "rep-001",
+    "ticketNumber": "REP-2026-0001",
+    "title": "💬 ข้อความใหม่จากช่างซ่อม",
+    "message": "ช่างประสิทธิ์ ซ่อมไว ได้ตอบกลับข้อความในงานซ่อม REP-2026-0001",
+    "type": "new_message",
+    "isRead": true,
+    "createdAt": "2026-03-10T10:25:00Z"
+  },
+  {
+    "id": "notif-3",
+    "userId": "usr-2",
+    "repairId": "rep-002",
+    "ticketNumber": "REP-2026-0002",
+    "title": "📦 รออะไหล่ชิ้นส่วน",
+    "message": "งานซ่อมเครื่องพิมพ์ REP-2026-0002 อยู่ระหว่างรอเบิกอะไหล่ HP Tray 2 Roller Kit",
+    "type": "waiting_parts",
+    "isRead": true,
+    "createdAt": "2026-03-09T16:30:00Z"
+  },
+  {
+    "id": "notif-4",
+    "userId": "usr-1",
+    "repairId": "rep-003",
+    "ticketNumber": "REP-2026-0003",
+    "title": "✅ งานซ่อมเสร็จสมบูรณ์",
+    "message": "งานซ่อมโปรเจกเตอร์ REP-2026-0003 ซ่อมเสร็จแล้ว ขอเชิญประเมินความพึงพอใจการให้บริการ",
+    "type": "completed",
+    "isRead": true,
+    "createdAt": "2026-03-05T10:30:00Z"
+  }
+]
